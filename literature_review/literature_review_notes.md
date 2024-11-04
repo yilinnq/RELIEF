@@ -1,6 +1,6 @@
 # RELIEF Literature Review Notes
 
-This is an informal notes file on the papers reviewed. Many notes here are copied directory from the paper. Original papers can be found in the `literature_review/papers/` directory. Papers are categozied into the categories listed in [Table of Contents](#table-of-contents)
+This is an informal notes file on the papers reviewed. Many notes here are copied directory from the paper. Original papers are linked to the titles below. To be reviewed papers, if needed, are listed in the `literature_review/papers/` directory. Papers are categozied into the categories listed in [Table of Contents](#table-of-contents)
 
 ## Table of Contents
 1. [General Emotional Regulation Related](#general-emotional-regulation-related)
@@ -87,11 +87,11 @@ This is an informal notes file on the papers reviewed. Many notes here are copie
         6. Acting “as if.”
         7. Self-disclosure.
 
-#### [APA’s handout on The 5 Steps of Cognitive Reframing] (https://www.apa.org/pubs/books/supplemental/Treatment-for-Postdisaster-Distress/Handout-28.docx)
+#### [APA’s handout on The 5 Steps of Cognitive Reframing](https://www.apa.org/pubs/books/supplemental/Treatment-for-Postdisaster-Distress/Handout-28.docx)
 
 Worksheet for Cognitive Reframing (can be used to guide LLM behavior)
 
-#### [Cognitive Behavioral Therapy Los Angeles’s Thought Record worksheet] (https://static1.squarespace.com/static/51e36ea9e4b0e2abc3eb9d10/t/5f08fdc8b35453569b131086/1594424776738/Thought+Record+7+Worksheet.pdf) 
+#### [Cognitive Behavioral Therapy Los Angeles’s Thought Record worksheet](https://static1.squarespace.com/static/51e36ea9e4b0e2abc3eb9d10/t/5f08fdc8b35453569b131086/1594424776738/Thought+Record+7+Worksheet.pdf) 
 
 Worksheet for Cognitive Reframing (can be used to guide LLM behavior)
 
