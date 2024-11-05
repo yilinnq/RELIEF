@@ -31,6 +31,9 @@ This is an informal notes file on the papers reviewed. Many notes here are copie
 - Adaptive Emotion Regulation (p5)
     - Individuals differ in their use of emotion regulation strategies, as they differ in their experience and expression of emotions (Gross & John, 2003). By implication, emotion regulation strategies that are effective for one person may not be so for another. **However, there may be some strategies that are universally effective.** For example, Prizmic (2000) found that cognitive reappraisal strategies, such as a student re-evaluating the meaning of a task, have been correlated with more positive emotions; whereas passive strategies, such as distraction or avoidance correlated with more negative emotion after use, while Gross and John (2003) found cognitive strategies in general were more effective than strategies aimed at regulating the bodily affects of emotion. This, however, was only partly supported by Koole (2009) who found that progressive muscle relaxation effectively down-regulates stress.
 
+#### [Cognitive Restructuring and Cognitive Reappraisal](https://cogbtherapy.com/cognitive-restructuring-los-angeles#:~:text=Cognitive%20restructuring%2C%20also%20known%20as,to%20reverse%20anxiety%20and%20depression.)
+- Cognitive restructuring, also known as cognitive reappraisal, is designed to not only recognize these harmful ways of thinking but to significantly change them to reverse anxiety and depression. 
+
 #### [Gross, J. J. (2015). Emotion regulation: Current status and future prospects. Psychological inquiry, 26(1), 1-26.](https://static1.squarespace.com/static/55917f64e4b0cd3b4705b68c/t/55b7e684e4b07abddd481bf2/1438115460672/Gross+%282015%29+Emotion+Regulation-+Current+status+and+future+inquiry.PDF)
 - Cognitive Change (p9)
     "Cognitive change refers to modifying one’s appraisal of a situation in order to alter its emotional impact."
